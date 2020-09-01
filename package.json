@@ -1,0 +1,16 @@
+{
+  "name": "json2csv",
+  "version": "1.0.0",
+  "description": "converting json to csv file format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json2csv": "^5.0.1",
+    "mongoose": "^5.10.0"
+  }
+}
